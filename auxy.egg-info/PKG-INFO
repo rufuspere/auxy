@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: auxy
+Version: 1.0
+Summary: Auxiliar de Elecciones
+Home-page: https://github.com/rufuspere/auxylia.git
+Author: Anónimo
+Author-email: rafael.pereira.estal@gmail.com
+License: UNKNOWN
+Description: Contiene funciones útiles
+Keywords: python,first package
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows

@@ -1,0 +1,6 @@
+setup.py
+auxy/__init__.py
+auxy.egg-info/PKG-INFO
+auxy.egg-info/SOURCES.txt
+auxy.egg-info/dependency_links.txt
+auxy.egg-info/top_level.txt
